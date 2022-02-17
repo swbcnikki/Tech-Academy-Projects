@@ -1,1 +1,2 @@
-This is my GitHub Desktop Submission Assignment
+This is my GitHub Desktop Submission Assignment.
+This time, I am actually using GitHub Desktop like I should have.
